@@ -23,6 +23,9 @@
 ### Recent International Publication :bookmark_tabs:
 * [Lee, K., and Han, S. (2021). Convolutional Neural Network Modeling Strategy for Fall-related Motion Recognition using Acceleration Features of a Scaffolding Structure. Automation in Construction, Elsevier, 130, 103857.](https://www.sciencedirect.com/science/article/pii/S0926580521003083)
 
+### Awards, Honors, & Recognition ✨
+* 2021 Outstanding Academic Award, Korean Institute of Construction Safety (KICS), 2021
+
 ### Recent Project with [RUFREE](https://www.rufree.kr/) :briefcase:
 * [Saladpet (backend developer)](http://www.saladpet.com/) with *python & django*
 * Winer MVP with *react.js & node.js*
