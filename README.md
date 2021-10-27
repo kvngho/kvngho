@@ -26,7 +26,8 @@
 ### Awards, Honors, & Recognition ✨
 * 2021 Outstanding Academic Award, Korean Institute of Construction Safety (KICS), 2021
 
-### Recent Project with [RUFREE](https://www.rufree.kr/) :briefcase:
+### Recent Project with [SEESO](https://www.seeso.kr/) :briefcase:
+* (Current)[Deeping (backend developer)](http://deeping.kr/) with *python & django*
 * [Saladpet (backend developer)](http://www.saladpet.com/) with *python & django*
 * Winer MVP with *react.js & node.js*
 <!--
