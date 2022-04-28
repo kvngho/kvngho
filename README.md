@@ -24,9 +24,9 @@
 * [Lee, K., and Han, S. (2021). Convolutional Neural Network Modeling Strategy for Fall-related Motion Recognition using Acceleration Features of a Scaffolding Structure. Automation in Construction, Elsevier, 130, 103857.](https://www.sciencedirect.com/science/article/pii/S0926580521003083)
 
 ### Awards, Honors, & Recognition ✨
-* 2022 Education Excellence Award, World Top-tier Program, Engineering Development Research Center of Seoul National University, 2022
-* 2021 Excellence award, AI Training Data-driven Service Contest, Ministry of Science and ICT, 2021
-* 2021 Outstanding Academic Award, Korean Institute of Construction Safety (KICS), 2021
+* Education Excellence Award, World Top-tier Program, Engineering Development Research Center of Seoul National University, 2022
+* Excellence award, AI Training Data-driven Service Contest, Ministry of Science and ICT, 2021
+* Outstanding Academic Award, Korean Institute of Construction Safety (KICS), 2021
 
 ### Recent Project with [SEESO](https://www.seeso.kr/) :briefcase:
 * [Current] [Deeping (backend developer)](http://deeping.kr/) with *python & django*
