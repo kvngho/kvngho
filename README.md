@@ -18,7 +18,7 @@
 
 ### Education :books:
 * Bachelor of Science, Civil Engineering, Hanyang University, Seoul, Korea, 2020
-* Master of Science, Construction Automation and Informatics, Hanyang University, Seoul, Korea, 2020-present
+* Master of Science, Construction Automation and Informatics, Hanyang University, Seoul, Korea, 2020-2023
 
 ### Recent International Publication :bookmark_tabs:
 * [Lee, K., and Han, S. (2021). Convolutional Neural Network Modeling Strategy for Fall-related Motion Recognition using Acceleration Features of a Scaffolding Structure. Automation in Construction, Elsevier, 130, 103857.](https://www.sciencedirect.com/science/article/pii/S0926580521003083)
