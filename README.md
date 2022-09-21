@@ -17,7 +17,7 @@
 * Deep learning modeling
 
 ### Education :books:
-* Bachelor of Science, Civil Engineering, Hanyang University, Seoul, Korea, 2020
+* Bachelor of Science, Civil Engineering, Hanyang University, Seoul, Korea, ~2020
 * Master of Science, Construction Automation and Informatics, Hanyang University, Seoul, Korea, 2020-2023
 
 ### Recent International Publication :bookmark_tabs:
