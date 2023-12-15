@@ -6,6 +6,9 @@
   <img src='https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray'/>
 -->
 
+### Interested In 🔭
+* Go, ArgoCD
+
 ### Education :books:
 * Bachelor of Science, Civil Engineering, Hanyang University, Seoul, Korea, ~2020
 * Master of Science, Construction Automation and Informatics, Hanyang University, Seoul, Korea, 2020-2023
